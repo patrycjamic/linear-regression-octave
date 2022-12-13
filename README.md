@@ -18,5 +18,9 @@ It covers:
 
 ## Illustrations
 
+![regression line](illustrations/regression_line.png)
+</br>
+![predict values](illustrations/predict.png)
+
 ## Project status
 Although the project for now is finished, some further adjustments can be made.
