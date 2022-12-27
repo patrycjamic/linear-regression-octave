@@ -8,9 +8,6 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 
 ## General Info
 The project aim is to bring understing of linear regression into practice. </br>
